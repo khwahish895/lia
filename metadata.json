@@ -1,0 +1,5 @@
+{
+  "name": "Lia AI Assistant",
+  "description": "An elegant and intelligent AI companion named Lia, featuring wake-word activation and real-time assistance.",
+  "requestFramePermissions": ["microphone"]
+}
